@@ -4,6 +4,9 @@ public class Desktop implements Software,Hardware {
 	public void desktopModel() {
 		// TODO Auto-generated method stub
 		System.out.println("Desktop model Name Is Acer");
+
+System.out.println("Mani edit 7th");
+
 System.out.println("Umar edit 7th");
 	}
 
